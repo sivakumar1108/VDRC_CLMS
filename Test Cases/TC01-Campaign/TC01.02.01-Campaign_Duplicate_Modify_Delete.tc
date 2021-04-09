@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01.02.01-Campaign_Duplicate_Modify_Delete</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0ae8fa90-419b-47b5-930c-41c6047dd53d</testCaseGuid>
+</TestCaseEntity>

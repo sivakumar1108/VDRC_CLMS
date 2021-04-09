@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC12.02.01-API_CALL_Modify_functionality</name>
+   <tag>Api call modify</tag>
+   <comment></comment>
+   <testCaseGuid>85c5cec5-103a-4579-bf01-debdfea6b86d</testCaseGuid>
+</TestCaseEntity>

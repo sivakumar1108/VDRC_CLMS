@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Campaign import and export</description>
+   <name>Campaign Export_import</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6dfbc55-4a54-4160-af38-86e75b88273f</testCaseGuid>
+</TestCaseEntity>

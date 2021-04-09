@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Review Campaigns - Search / Add / Modify / Run / Delete campaigns</description>
+   <name>TC01.02-Campaign_Add_only_for_VDRC</name>
+   <tag>Review Campaigns - Search / Add / Modify / Run / Delete campaigns</tag>
+   <comment></comment>
+   <testCaseGuid>2f69ed02-0b05-462a-9885-ad1e2fb44189</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Reward add functionality</description>
+   <name>TC05.02.01-Rewards Add functionality</name>
+   <tag>Reward add functionality</tag>
+   <comment></comment>
+   <testCaseGuid>956acaa0-9221-44d4-b4a7-28ee9f7ae4ff</testCaseGuid>
+</TestCaseEntity>

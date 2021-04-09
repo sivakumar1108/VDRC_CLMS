@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify the communication delete functionality is working fine as expected</description>
+   <name>TC06.02.04-Communication_Delete</name>
+   <tag>Communication delete</tag>
+   <comment></comment>
+   <testCaseGuid>29d62404-a9f5-45c4-a7cd-ec2777548712</testCaseGuid>
+</TestCaseEntity>

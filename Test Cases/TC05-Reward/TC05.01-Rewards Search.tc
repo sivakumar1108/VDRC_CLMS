@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the Reward search functionality,Add modify delete functionality</description>
+   <name>TC05.01-Rewards Search</name>
+   <tag>Reward</tag>
+   <comment></comment>
+   <testCaseGuid>71719d5e-0f20-41c3-8222-efd68daf621b</testCaseGuid>
+</TestCaseEntity>

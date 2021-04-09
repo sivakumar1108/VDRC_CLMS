@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>NEWJEN-3</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://10.0.1.81/emagine/admin/index'</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'admin'</initValue>
+      <name>username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Vod@com12345'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'automation january 1301'</initValue>
+      <name>campaign_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>For campaign modify and delete we are using this </description>
+      <initValue>'Delete this duplicated test campaign'</initValue>
+      <name>duplicateanddeletecampaign</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>campaign modify and delete </description>
+      <initValue>'This is modified campaign to delete\r\n'</initValue>
+      <name>modifyanddeletecampaign</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>This campaign name for test case TC01.04</description>
+      <initValue>'This campaign for Start and restart'</initValue>
+      <name>campaignnameTC01_04</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'This trigger is duplicate of another trigger'</initValue>
+      <name>trigger_duplicate_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'This trigger is modified and need to delete'</initValue>
+      <name>trigger_modify_delete</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Automation 2101'</initValue>
+      <name>commuication_id</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'automation january 2101'</initValue>
+      <name>communication_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>SMS content in other language</description>
+      <initValue>'This is for testing purpose content in other language'</initValue>
+      <name>communication_content</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>SMS content in english language</description>
+      <initValue>'This is for testing purpose content in English'</initValue>
+      <name>communication_english</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>For Duplicate communication id</description>
+      <initValue>'comm duplicate 02'</initValue>
+      <name>communication_duplicate_id</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>For duplicate communication name</description>
+      <initValue>'This is duplicated communication 02'</initValue>
+      <name>communication_duplicate_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'This comm is modified and for delete'</initValue>
+      <name>communication_modiify_delete</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Reward automation 01'</initValue>
+      <name>reward_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Reward id 01'</initValue>
+      <name>reward_id</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'This reward for testing purpose'</initValue>
+      <name>reward_description</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'AIMIA'</initValue>
+      <name>reward_supplier</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Dup Reward 01'</initValue>
+      <name>reward_dup_id</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Dup Automation reward 01'</initValue>
+      <name>reward_dup_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Modify reward for delete'</initValue>
+      <name>reward_mod_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>keep &quot;AUTOMATION_TEST&quot; this string</description>
+      <initValue>'API_AUTOMATION_TEST_01'</initValue>
+      <name>apidbcall_and_apidbcall_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'MOD_API_AUTOMATION_TEST'</initValue>
+      <name>modify_api_call_name</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Review Campaigns - Search / Add / Modify / Run / Delete campaigns</description>
+   <name>TC01-Login</name>
+   <tag>Review Campaigns - Search / Add / Modify / Run / Delete campaigns</tag>
+   <comment></comment>
+   <testCaseGuid>142954f1-00b2-46de-a70f-f1906c3f0b00</testCaseGuid>
+</TestCaseEntity>

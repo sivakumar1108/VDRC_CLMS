@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC13.03-Api_DB_call_Delete</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5ca1d5a-206d-4d70-b1b9-616c0cf4ffde</testCaseGuid>
+</TestCaseEntity>

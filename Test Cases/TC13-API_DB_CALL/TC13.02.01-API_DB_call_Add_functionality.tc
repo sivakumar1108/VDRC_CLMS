@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC13.02.01-API_DB_call_Add_functionality</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef8ba81d-bb6a-4145-96d3-639b411cbbe5</testCaseGuid>
+</TestCaseEntity>

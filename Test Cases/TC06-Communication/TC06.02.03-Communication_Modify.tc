@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the communication modify functionality is working as expected</description>
+   <name>TC06.02.03-Communication_Modify</name>
+   <tag>communication modify</tag>
+   <comment></comment>
+   <testCaseGuid>e2aa7a5d-d374-47ad-93c3-78c17b288bf8</testCaseGuid>
+</TestCaseEntity>
